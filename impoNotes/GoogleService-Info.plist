@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>630775697131-0jp4cl1o5vta3u3cqiuortrf1lc6nf5c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630775697131-0jp4cl1o5vta3u3cqiuortrf1lc6nf5c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6J2M9iab4BWI1S0FAihD0A94gtSuQBn4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630775697131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Mehmet-Onur.impoNotes</string>
+	<key>PROJECT_ID</key>
+	<string>imponotes-ba302</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imponotes-ba302.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630775697131:ios:313a3bce8f61d181edf8ae</string>
+	<key>DATABASE_URL</key>
+	<string>https://imponotes-ba302.firebaseio.com</string>
+</dict>
+</plist>
